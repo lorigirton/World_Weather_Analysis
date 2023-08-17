@@ -1,1 +1,5 @@
 # World_Weather_Analysis
+
+This project looks at what the weather is like as we approch the equator. The .gitignore file was used to prevent the API keys located in the api_keys.py file from being shared with the public. This project was broken into two parts and I chose to focus on part 1: WeatherPy. I created a Python script to analyze the weather from over 500 cities with differing distances from the equater. I utized the OpenWeatherMap API along with citipy Python library. I created scatter plots to showcase the relationships between Latitude vs. Temperature, Latitude vs. Humidity, Latitude vs. Cloudiness, and Latitude vs. Wind Speed. I then created the linear regression for each relationship for the Nothern Hemisphere and the Southern Hemisphere and analyzed the relationships below each regression plot. 
+
+This project is part of the UNC Data Analytics Bootcamp. I utized tutor sessions, AskBCS learning assistants, and ChatGPT to complete the project.
